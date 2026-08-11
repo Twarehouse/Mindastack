@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Vite build
+dist/
+
+# Electron build output
+release/
+
+# Electron installers
+*.AppImage
+*.exe
+*.blockmap
+
+# Environment files
+.env
+.env.local
+.env.*
+
+# Logs
+*.log

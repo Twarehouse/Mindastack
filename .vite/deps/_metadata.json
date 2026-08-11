@@ -1,0 +1,88 @@
+{
+  "hash": "b4a3bf7a",
+  "configHash": "ca8ca598",
+  "lockfileHash": "d872a454",
+  "browserHash": "1958a5c9",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "c9b00a7c",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "644c1a5a",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "c27a69ad",
+      "needsInterop": false
+    },
+    "react-icons/fa": {
+      "src": "../../node_modules/react-icons/fa/index.mjs",
+      "file": "react-icons_fa.js",
+      "fileHash": "f11ac247",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "15e53e30",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "077c430b",
+      "needsInterop": false
+    },
+    "roslib": {
+      "src": "../../node_modules/roslib/src/RosLib.js",
+      "file": "roslib.js",
+      "fileHash": "f11dd272",
+      "needsInterop": true
+    },
+    "recharts": {
+      "src": "../../node_modules/recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "dc85d243",
+      "needsInterop": false
+    },
+    "react-icons/fi": {
+      "src": "../../node_modules/react-icons/fi/index.mjs",
+      "file": "react-icons_fi.js",
+      "fileHash": "cf3b7f5c",
+      "needsInterop": false
+    },
+    "js-yaml": {
+      "src": "../../node_modules/js-yaml/dist/js-yaml.mjs",
+      "file": "js-yaml.js",
+      "fileHash": "192a979c",
+      "needsInterop": false
+    },
+    "jszip": {
+      "src": "../../node_modules/jszip/dist/jszip.min.js",
+      "file": "jszip.js",
+      "fileHash": "2a2cb7fa",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-C7VR2U7R": {
+      "file": "chunk-C7VR2U7R.js"
+    },
+    "chunk-OOCCGKRY": {
+      "file": "chunk-OOCCGKRY.js"
+    },
+    "chunk-42LPO3HH": {
+      "file": "chunk-42LPO3HH.js"
+    },
+    "chunk-PR4QN5HX": {
+      "file": "chunk-PR4QN5HX.js"
+    }
+  }
+}
