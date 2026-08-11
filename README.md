@@ -1,6 +1,6 @@
 # MINDA GUI ROBOT FRONTEND
 
-React + Vite + Tailwind project scaffold for a Fleet Manager dashboard.
+React + Vite + Tailwind + Electron project packed in electron 
 
 ## How to run
 
